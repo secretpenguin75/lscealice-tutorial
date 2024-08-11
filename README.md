@@ -17,15 +17,14 @@ Select `create alignment file` in the `File` menu and follow the steps in the po
 
 ### Alignment
 
-- Add tiepoints: left click on the plot adds tiepoints successively on the two curves
-- Delete tiepoints: Hovering over the plot will highlight the closest tiepoint. Right click on a highlighted pair of points to delete it.
+- Add tiepoints: <kbd> left click </kbd>  on the plot adds tiepoints successively on the two curves
+- Delete tiepoints: Hovering over the plot will highlight the closest tiepoint. <kbd> Right click </kbd> on a highlighted pair of points to delete it.
 
 - You can use the native `zoom` and `pan` widgets of matplotlib to focus on some areas of the curves to align.
 
-- `Left arrow` and `Right arrow` lets you navigate through cores.
-- `Up arrow` and `Down arrow` 
+- <kbd> Left arrow</kbd> and <kbd> Right arrow </kbd> lets you navigate through cores.
 - <kbd> Up arrow </kbd> and <kbd> Down arrow </kbd> lets you cycle through species
-- Some species have default keys assigned to them: `S` Sulate, `w` MSA, `o` $\delta^{18}$O,...
+- Some species have default keys assigned to them: <kbd> S </kbd> Sulate, <kbd>w</kbd> MSA, <kbd> o </kbd>  $`\delta^{18}`$ O,...
 
 
 ### Preview: 
