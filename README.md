@@ -13,6 +13,8 @@ Select `create alignment file` in the `File` menu and follow the steps in the po
 
 - Note that multiple data files may be selected, allowing you to work with data at different resolution for the same core (e.g. discrete and CFA measurements).
 
+You can check the _example_ folder in this tutorial for the correct format of the data files.
+
 ## Using the interface
 
 ### Alignment
@@ -24,7 +26,7 @@ Select `create alignment file` in the `File` menu and follow the steps in the po
 
 - <kbd> Left arrow</kbd> and <kbd> Right arrow </kbd> lets you navigate through cores.
 - <kbd> Up arrow </kbd> and <kbd> Down arrow </kbd> lets you cycle through species
-- Some species have default keys assigned to them: <kbd> S </kbd> Sulate, <kbd>w</kbd> MSA, <kbd> o </kbd>  $`\delta^{18}`$ O,...
+- Some species have default keys assigned to them: <kbd> S </kbd> Sulate, <kbd>w</kbd> MSA, <kbd> o </kbd>  $`\delta^{18}`$O,...
 
 
 ### Preview: 
